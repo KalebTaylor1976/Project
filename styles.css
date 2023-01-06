@@ -20,3 +20,10 @@ div {
  display: flex;
  justify-content: center;
 }
+
+li  {
+  color:crimson;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  text-align: left;
+}
