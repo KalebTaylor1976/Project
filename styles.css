@@ -16,6 +16,7 @@ p  {
   text-align: center;
 }
 
-img {
-  image-orientation: center;
+div {
+ display: flex;
+ justify-content: center;
 }
