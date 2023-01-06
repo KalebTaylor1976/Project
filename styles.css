@@ -14,7 +14,6 @@ h2  {
   text-align: center;
 }
 
-
 p  {
   color: crimson;
   font-family: 'Times New Roman', Times, serif;
@@ -22,18 +21,18 @@ p  {
   text-align: center;
 }
 
+
+
+li  {
+  color:crimson;
+  font-size: large;
+  
+}
+
+
 div {
  display: flex;
  justify-content: center;
 }
 
-li  {
-  color:crimson;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: large;
-  text-align: left;
-}
 
-a:-webkit-any-link {
-  color:blue
-}
