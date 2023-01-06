@@ -1,0 +1,18 @@
+body  {
+  background-color: black;
+}
+
+h1  {
+  color: crimson;
+  font-family:  'Times New Roman', Times, serif ;
+  text-align: center;
+}
+
+
+p  {
+  color: crimson;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  text-align: center;
+}
+
