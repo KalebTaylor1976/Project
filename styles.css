@@ -8,6 +8,12 @@ h1  {
   text-align: center;
 }
 
+h2  {
+  color: crimson;
+  font-family:  'Times New Roman', Times, serif ;
+  text-align: center;
+}
+
 
 p  {
   color: crimson;
@@ -28,10 +34,6 @@ li  {
   text-align: left;
 }
 
-a  {
-  color:crimson;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: large;
-  text-align: left;
-
+a:-webkit-any-link {
+  color:blue
 }
