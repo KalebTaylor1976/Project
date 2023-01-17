@@ -1,17 +1,21 @@
 # Project
 Contributors. Steven Gavlvan, Lukie, Vera
 
-Portfolio site
-https://github.com/KalebTaylor1976/Project
+#Portfolio site
+https://kalebtaylor1976.github.io/Project/
 
-Known bugs: could not align organized list to center.
+#Description: My first portfolio webpage. 
 
-Technologies used:
+#Technologies used:
 Visual studio,
 Gitbash
 MIT License
 
-Copyright (c) [2023]] [Kaleb Anthony Taylor]
+#Known bugs: could not align organized list to center.
+
+#installation instructions:Load project from git hub address. 
+
+Copyright (c) 2023 Kaleb Anthony Taylor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
