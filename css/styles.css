@@ -38,10 +38,11 @@ p  {
   margin-left: 80px;
 }
 
-span.text {
-  color: rgb(0, 47, 255);
+span {
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid rgb(124, 3, 3);
 }
-
 
 li  {
   color:crimson;
