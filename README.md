@@ -7,13 +7,13 @@ https://kalebtaylor1976.github.io/Project/
 #Description: My first portfolio webpage. 
 
 #Technologies used:
-Visual studio,
-Gitbash
+HTML
+CSS
 MIT License
 
 #Known bugs: could not align organized list to center.
 
-#installation instructions:Load project from git hub address. 
+#installation instructions: Could not align organized list to center
 
 Copyright (c) 2023 Kaleb Anthony Taylor
 
