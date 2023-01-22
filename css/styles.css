@@ -38,6 +38,9 @@ p  {
   margin-left: 80px;
 }
 
+span.text {
+  color: rgb(0, 47, 255);
+}
 
 
 li  {
